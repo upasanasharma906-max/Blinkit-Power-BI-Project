@@ -43,7 +43,6 @@ Underperforming outlets and categories can be improved.
 Example: Frozen Food category contributed only ₹0.5M in sales compared to top categories exceeding ₹3M. Introducing bundled offers or promotional campaigns could help boost sales in such categories.
 
 6. Snapshot
-   
+   <img width="658" height="332" alt="Snapshot of the blinkit Dashboard" src="https://github.com/user-attachments/assets/8fb1ac81-8dbe-49c2-a556-76ce90b10cb9" />
 
-   
    
